@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="4fhX%w0$,W=?Ra#`,S(E" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id=":I+o)KQ2lY%/m`-JuL9X"><field name="i">IconNames.Diamond</field><next><block type="basic_show_icon" id="}_7mv-rVhFT9syUJ.29m"><field name="i">IconNames.SmallDiamond</field><next><block type="basic_show_icon" id="b0FRkATYBm[D0Q%m,RN^"><field name="i">IconNames.Diamond</field><next><block type="basic_show_icon" id="BIl]gcADBZEzS4!HAC=s"><field name="i">IconNames.SmallDiamond</field><next><block type="controls_if" id="/Wn}Vn$U/%}oxVYpom1q"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_random" id="rG#!!MlzoE:ZO-fl%4$i"></block></value><statement name="DO0"><block type="basic_show_icon" id="eGbT$eYII@Iz;@vCO-oN"><field name="i">IconNames.Happy</field></block></statement><statement name="ELSE"><block type="device_show_leds" id="]^VVjv`V~uZ7d4@zyg6;"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block></next></block></next></block></next></block></next></block></statement></block></xml>
